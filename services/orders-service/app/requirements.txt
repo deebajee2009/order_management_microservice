@@ -1,0 +1,5 @@
+fastapi
+pymongo==4.1
+uvicorn
+pydantic
+aio-pika
